@@ -2,6 +2,7 @@
 /log
 *.log
 
-.eslintcache
-
 .env
+
+.eslintcache
+.DS_Store
